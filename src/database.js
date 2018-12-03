@@ -12,3 +12,7 @@ mongoose.connect(URI)
 })
 
 module.exports = mongoose;
+
+/**
+ * La forma de conectarse al parecer esta 
+ */
